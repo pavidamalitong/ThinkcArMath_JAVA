@@ -3,3 +3,6 @@ This game is inspired by car’s license plates while watching other cars drivin
 
 # Demonstration
 https://github.com/pavidamalitong/ThinkcArMath_JAVA/assets/109945209/32646912-5597-4648-b11b-6f2a7b990452
+
+# More details
+[ThinkcArMath_Presentation.pdf](https://github.com/pavidamalitong/ThinkcArMath_JAVA/files/13712985/ThinkcArMath_Presentation.pdf)
